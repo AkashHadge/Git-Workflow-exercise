@@ -3,4 +3,9 @@ Done with feature brannch changes
 Done with Release brannch changes
 Done with Hotfixes brannch changes
 Done with Release brannch 0.2.0 changes
+<<<<<<< HEAD
 Changes Done with feature brannch-1 changes
+=======
+Done with dev brannch changes
+Done with dev1 brannch changes.
+>>>>>>> 2f399c24f57eb344bf440993a6340c8b914c650b
